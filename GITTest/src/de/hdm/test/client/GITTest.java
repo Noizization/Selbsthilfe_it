@@ -37,6 +37,13 @@ public class GITTest implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
+		
+		//TEST FUER GITHUB
+		//Pimmel
+		//Manu riecht
+		
+		
+		final Button b2 = new Button("button2");
 		final Button sendButton = new Button("Send");
 		final TextBox nameField = new TextBox();
 		nameField.setText("GWT User");
